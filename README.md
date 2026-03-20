@@ -87,6 +87,9 @@ A small, focused Discord interaction bot implemented from HTTP/interaction level
 - Dockerize and add a basic CI pipeline.
 
 ---
+### Goals
+- Implement an economy system with sqlite in which registers importan activity from the user that interact with the bot.
+
 
 #### License and contribution
 
